@@ -1,1 +1,1 @@
-Manuscript ‘Auto-tuning-Pl-Control-with-Desired-Precision-within-User-Specifiable-Time’ has been submitted to journal ‘IEEE Transactions on Cybernetics’ and is currently undergoing peer review. Upon formal acceptance, the manuscript's code will be made publicly available in this repository.
+The code of ‘Auto-tuning-Pl-Control-with-Desired-Precision-within-User-Specifiable-Time’ is available in this repository.
